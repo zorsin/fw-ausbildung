@@ -1,0 +1,89 @@
+# Ausbildungsplan Feuerwehr
+
+## Themensammlung
+
+- Techniken
+  - Schlauchmanagement
+    - Schlauchtragekorb
+    - Schlauchpaket
+    - Schlauchbrücke
+  - Hohlstrahlrohr
+  - Wärmebildkamera
+  - Kettensäge
+  - Flex & Säbelsäge
+  - Tauchpumpe?
+  - Rauchvorhang
+  - Schaum (Schaumrohr / Schaumpistole)
+  - Kleinlöschgeräte (Feuerlöscher, Highpress, Kübelspritze)
+  - Belüftung / Entlüftung
+  - Wassersauger
+  - Absturzsicherung
+  - Absicherung von Einsatzstellen
+  - Licht (Akku, Lichtmast, Dreibein) & Stromerzeuger
+  - Retten
+    - Erste Hife
+    - Krankentrage
+    - Spineboard
+    - Tragetuch
+    - Versetztenbetreuung
+  - Atemschutz
+    - Atemschutznotfall
+    - Räumeabsuchen
+    - Fluchthaube
+    - Löschtechniken im Innenangriff
+  - Fahrzeugfahren (Maschinisten)
+    - Slalom
+    - Rückwärtsfahren
+    - Einparken
+    - Wenden
+  - Knoten & Sticke
+  - Leitern
+    - Steckleiter
+    - Schiebeleiter
+  - Wasserversorgung
+    - Offnes Gewässer
+    - Hydrant
+  - Technische Hilfeleistung
+    - Hydraulisches Rettungsgerät
+    - Hebekissen
+    - Seil & Kettenzüge
+  - Führen einer Gruppe/Staffel (Gruppenführer)
+- Einsatzszenarien
+  - Brand
+    - Kleinbrand
+    - Wohnungsbrand Einfamilienhaus
+      - ohne Vermisste
+      - mit vermisster Person
+      - Person am Balkon
+    - Wohnungsbrand Mehrfamilienhaus (6+ Parteien)
+      - Vermisste in Brandwohnung
+      - Person am Balkon bis 2.OG mit Rauch
+      - Person am Balkon 3.OG mit Rauch
+      - Person am Balkon ohne Rauch
+    - Industrie- /Hallenbrand
+    - Landwirtschaftliches Anwesen
+    - Wasserversorgung
+  - Technische Hilfeleitung
+    - Arbeitsunfall Maschine (mit ggf. langem Anweg)
+    - Arbeitsunfall Elektro
+    - Arbeitsunfall Grube/Schacht
+    - VU Person unter PKW (Ein-/Ausparken überfahren)
+    - VU PKW-LKW (Eingeklemmter Fahrer PKW, Eingeklemmter Person auf Rückbank)
+    - Retten aus Höhen, Tiefen & schwiereigem Gelände
+  - Gefahrgut
+    - Chlorgas Schwimmbad
+    - Chemie Betrieb/ Schule
+    - Transport Unfall A
+    - Transport Unfall C Stück
+    - Transport Unfall C Flüssig
+- Theorie
+  - Rechtsgrundlagen
+    - Rechte & Pflichten
+    - Feuerwehrgesetz
+  - UVV
+  - Katastrophenschutz
+  - Brandsicherheitswachdienst
+  - FwDV 3 (Einheiten im Lösch- und Hilfeleistungseinsatz)
+  - FwDV 100 (Führung)
+  - FwDV 500 (Gefahrgut)
+  - Brennen und Löschen
